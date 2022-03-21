@@ -7,8 +7,8 @@ dataSources:
     network: mainnet
     source:
       abi: Bridge
-      address: "0xC84456ecA286194A201F844993C220150Cf22C63" # mainnet prod bridge
-      startBlock: 12935211 # deployment height
+      address: "0x1A83504a629eD139c9108f8231aF25C101DceF40" # mainnet prod bridge
+      startBlock: 16134719 # deployment height
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4

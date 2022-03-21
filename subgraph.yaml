@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: amara-chainbridge
-    network: mainnet
+    network: bsc
     source:
       abi: Bridge
       address: "0x1A83504a629eD139c9108f8231aF25C101DceF40" # mainnet prod bridge
